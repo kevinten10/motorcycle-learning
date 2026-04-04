@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Pre-ride check diagram</title>
+  <desc id="desc">A schematic teaching diagram showing the pre-ride inspection points of a motorcycle.</desc>
+  <rect width="1200" height="760" fill="#f7fafc"/>
+  <rect x="40" y="40" width="1120" height="680" rx="28" fill="#ffffff" stroke="#d9e2ec" stroke-width="2"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#17212b">
+    <text x="80" y="108" font-size="38" font-weight="700">Pre-Ride Check</text>
+    <text x="80" y="144" font-size="21" opacity="0.75">Spend 3 minutes before every ride.</text>
+  </g>
+
+  <g transform="translate(250 180)">
+    <circle cx="520" cy="314" r="86" fill="#222a33"/>
+    <circle cx="520" cy="314" r="50" fill="#8c97a3"/>
+    <circle cx="210" cy="314" r="86" fill="#222a33"/>
+    <circle cx="210" cy="314" r="50" fill="#8c97a3"/>
+
+    <path d="M180 174 L300 166 L395 184 L468 176 L532 204 L562 228 L520 240 L468 216 L404 210 L320 210 L280 244 L214 246 L144 224 L112 212 L126 190 Z" fill="#1e2530"/>
+    <path d="M214 174 L304 168 L390 186 L376 218 L294 220 L232 204 Z" fill="#2f64b0"/>
+    <path d="M376 186 L476 180 L514 202 L478 214 L404 210 Z" fill="#314967"/>
+    <path d="M144 224 L214 246 L236 282 L212 296 L148 284 L114 246 Z" fill="#252d38"/>
+    <path d="M236 280 L408 280 L450 236 L476 242 L462 286 L420 304 L260 306 Z" fill="#303843"/>
+    <rect x="294" y="230" width="112" height="22" rx="10" fill="#11161c"/>
+    <path d="M526 240 L646 254" stroke="#1a2028" stroke-width="10" stroke-linecap="round"/>
+    <path d="M390 220 L380 276 L394 318" stroke="#13171d" stroke-width="12" stroke-linecap="round"/>
+    <path d="M272 220 L220 314" stroke="#13171d" stroke-width="12" stroke-linecap="round"/>
+    <path d="M454 286 L512 314" stroke="#13171d" stroke-width="12" stroke-linecap="round"/>
+    <path d="M358 132 L344 96 L368 96 L388 136 Z" fill="#1d2530"/>
+    <path d="M454 180 L486 132 L504 138 L478 184 Z" fill="#1d2530"/>
+    <rect x="498" y="132" width="60" height="12" rx="6" fill="#181d24"/>
+    <path d="M118 210 L54 166 L44 178 L104 224 Z" fill="#1b1f26"/>
+    <path d="M48 168 L8 138" stroke="#181d24" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="6" cy="138" r="10" fill="#ffb34d"/>
+  </g>
+
+  <g stroke="#4f6f92" stroke-width="4" fill="none">
+    <path d="M240 522 C186 580, 150 616, 104 620"/>
+    <path d="M874 514 C958 554, 1008 580, 1084 588"/>
+    <path d="M846 284 C944 230, 1014 194, 1082 184"/>
+    <path d="M234 284 C156 214, 126 190, 96 178"/>
+    <path d="M538 228 C538 138, 538 108, 538 82"/>
+    <path d="M568 210 C676 136, 742 110, 844 96"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(72 606)">
+      <rect width="214" height="78" rx="16" fill="#eaf3ff" stroke="#b9d1ef"/>
+      <text x="20" y="34" font-size="22" font-weight="700" fill="#18324f">Tires</text>
+      <text x="20" y="60" font-size="18" fill="#38506a">Pressure, tread, debris</text>
+    </g>
+
+    <g transform="translate(920 576)">
+      <rect width="218" height="78" rx="16" fill="#eaf3ff" stroke="#b9d1ef"/>
+      <text x="20" y="34" font-size="22" font-weight="700" fill="#18324f">Chain</text>
+      <text x="20" y="60" font-size="18" fill="#38506a">Slack, dirt, lubrication</text>
+    </g>
+
+    <g transform="translate(920 132)">
+      <rect width="210" height="78" rx="16" fill="#eaf3ff" stroke="#b9d1ef"/>
+      <text x="20" y="34" font-size="22" font-weight="700" fill="#18324f">Lights</text>
+      <text x="20" y="60" font-size="18" fill="#38506a">Headlight and signals</text>
+    </g>
+
+    <g transform="translate(52 132)">
+      <rect width="208" height="78" rx="16" fill="#eaf3ff" stroke="#b9d1ef"/>
+      <text x="20" y="34" font-size="22" font-weight="700" fill="#18324f">Brakes</text>
+      <text x="20" y="60" font-size="18" fill="#38506a">Front and rear feel</text>
+    </g>
+
+    <g transform="translate(418 50)">
+      <rect width="238" height="78" rx="16" fill="#eaf3ff" stroke="#b9d1ef"/>
+      <text x="20" y="34" font-size="22" font-weight="700" fill="#18324f">Fluids</text>
+      <text x="20" y="60" font-size="18" fill="#38506a">Fuel, coolant, leaks</text>
+    </g>
+
+    <g transform="translate(820 48)">
+      <rect width="258" height="78" rx="16" fill="#eaf3ff" stroke="#b9d1ef"/>
+      <text x="20" y="34" font-size="22" font-weight="700" fill="#18324f">Mirrors and Stand</text>
+      <text x="20" y="60" font-size="18" fill="#38506a">Tight, aligned, stable</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">DL250 tutorial cover</title>
+  <desc id="desc">An instructional banner showing an adventure motorcycle, a rider, and a practice ground.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dff1ff"/>
+      <stop offset="100%" stop-color="#f6fbff"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d7dde4"/>
+      <stop offset="100%" stop-color="#c7d0d8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="620" fill="url(#sky)"/>
+  <rect y="380" width="1200" height="240" fill="url(#ground)"/>
+  <rect y="410" width="1200" height="10" fill="#f4f6f8" opacity="0.85"/>
+  <rect y="510" width="1200" height="8" fill="#edf1f4" opacity="0.8"/>
+
+  <g opacity="0.18">
+    <circle cx="120" cy="90" r="44" fill="#ffffff"/>
+    <circle cx="980" cy="72" r="36" fill="#ffffff"/>
+    <circle cx="1060" cy="116" r="24" fill="#ffffff"/>
+  </g>
+
+  <g transform="translate(120 150)">
+    <circle cx="760" cy="280" r="76" fill="#23272f"/>
+    <circle cx="760" cy="280" r="44" fill="#8f99a5"/>
+    <circle cx="450" cy="280" r="76" fill="#23272f"/>
+    <circle cx="450" cy="280" r="44" fill="#8f99a5"/>
+
+    <path d="M430 140 L540 132 L620 150 L700 144 L760 175 L795 205 L758 217 L705 188 L632 182 L560 182 L523 210 L455 212 L398 195 L360 192 L332 180 L350 156 L398 154 Z" fill="#1d2530"/>
+    <path d="M468 146 L548 138 L620 154 L604 190 L520 192 L486 184 L452 172 Z" fill="#2c5fa8"/>
+    <path d="M604 153 L706 148 L742 174 L704 186 L632 182 Z" fill="#294061"/>
+    <path d="M396 194 L455 212 L472 240 L448 256 L392 244 L354 214 Z" fill="#1f2833"/>
+    <path d="M470 238 L650 238 L696 204 L722 212 L706 246 L664 266 L486 270 Z" fill="#2b313c"/>
+    <rect x="525" y="202" width="118" height="22" rx="10" fill="#11161c"/>
+    <path d="M535 134 L520 94 L544 94 L565 132 Z" fill="#1d2530"/>
+    <path d="M668 145 L700 92 L718 98 L690 150 Z" fill="#1d2530"/>
+    <rect x="706" y="90" width="64" height="12" rx="6" fill="#181d24"/>
+    <path d="M362 188 L308 144 L298 156 L344 204 Z" fill="#1b1f26"/>
+    <path d="M300 145 L256 115" stroke="#181d24" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="252" cy="114" r="10" fill="#ffb34d"/>
+    <path d="M720 198 L842 214" stroke="#1a2028" stroke-width="10" stroke-linecap="round"/>
+    <path d="M604 190 L594 240 L610 284" stroke="#13171d" stroke-width="12" stroke-linecap="round"/>
+    <path d="M496 192 L454 280" stroke="#13171d" stroke-width="12" stroke-linecap="round"/>
+    <path d="M710 245 L750 280" stroke="#13171d" stroke-width="12" stroke-linecap="round"/>
+    <path d="M552 270 L684 270" stroke="#979fa9" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(760 170)">
+    <circle cx="160" cy="82" r="28" fill="#20252c"/>
+    <path d="M138 88 C130 124, 130 168, 152 194 L182 194 C198 162, 198 126, 186 94 Z" fill="#2f3a46"/>
+    <path d="M154 112 L128 164 L144 172 L166 126 L190 170 L206 160 L182 112 Z" fill="#11161d"/>
+    <path d="M144 194 L126 256 L144 262 L160 214 L176 262 L194 256 L176 194 Z" fill="#11161d"/>
+    <rect x="154" y="190" width="10" height="74" rx="5" fill="#1e2430"/>
+    <path d="M132 264 L158 264 L152 276 L126 276 Z" fill="#292f38"/>
+    <path d="M168 264 L196 264 L202 276 L174 276 Z" fill="#292f38"/>
+    <rect x="96" y="278" width="190" height="12" rx="6" fill="#f5f7fa" opacity="0.65"/>
+  </g>
+
+  <g transform="translate(90 350)">
+    <path d="M0 64 L22 0 L44 64 Z" fill="#ff8f3d"/>
+    <rect x="12" y="38" width="20" height="8" fill="#ffffff" opacity="0.85"/>
+    <rect x="9" y="20" width="26" height="8" fill="#ffffff" opacity="0.85"/>
+  </g>
+  <g transform="translate(1010 360) scale(0.9)">
+    <path d="M0 64 L22 0 L44 64 Z" fill="#ff8f3d"/>
+    <rect x="12" y="38" width="20" height="8" fill="#ffffff" opacity="0.85"/>
+    <rect x="9" y="20" width="26" height="8" fill="#ffffff" opacity="0.85"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#18202a">
+    <text x="88" y="106" font-size="48" font-weight="700">DL250 Learning Tutorial</text>
+    <text x="88" y="150" font-size="24" opacity="0.85">Learn in order: inspect, start, stop, control, commute, maintain.</text>
+  </g>
+</svg>
